@@ -1,0 +1,71 @@
+
+euronews.rs
+Koji AI čatbot najpreciznije rešava jednostavnu matematiku? Gemini, ChatGPT i Grok na velikom testu
+Euronews
+
+Veštačka inteligencija (AI) postaje sastavni deo svakodnevnog života, uključujući i obavljanje svakodnevnih proračuna. Ali koliko ove tehnologije zapravo dobro rade osnovnu matematiku? I koliko korisnici treba da im veruju?
+
+Nedavna studija upozorava na oprez. Istraživanje "Omni istraživanje o proračunima u veštačkoj inteligenciji" (Omni Research on Calculation in AI) pokazuje da kada zatražite od AI četa da izvrši svakodnevne matematičke zadatke, postoji otprilike 40 odsto šanse da će dati pogrešan odgovor. Tačnost se značajno razlikuje između različitih AI kompanija i različitih tipova matematičkih zadataka.
+
+Pa koja AI rešenja su tačnija i kako se ponašaju u različitim vrstama proračuna, kao što su statistika, finansije ili fizika?
+
+Rezultati se zasnivaju na performansama više od 500 zadataka izvedenih iz stvarnog života, koji su mogli biti izračunati. Svaki AI model je testiran koristeći isti set od 500 pitanja. Pet AI modela testirano je u oktobru 2025.
+
+
+
+Odabrani modeli su:
+
+    ChatGPT-5 (OpenAI)
+    Gemini 2.5 Flash (Google)
+    Claude 4.5 Sonnet (Anthropic)
+    DeepSeek V3.2 (DeepSeek AI)
+    Grok-4 (xAI)
+
+ORCA test performansi je otkrio da nijedan AI model nije postigao više od 63 odsto tačnosti u svakodnevnoj matematici. Lider, Gemini (63 odsto), i dalje pogreši skoro četiri od 10 zadataka. Grok ima skoro isti rezultat, 62,8 odsto. DeepSeek je treći sa 52 odsto. ChatGPT sledi sa 49,4 odsto, a Claude je na poslednjem mestu sa 45,2 odsto.
+
+Profimedia
+ 
+
+Jednostavna prosečna tačnost svih pet modela je 54,5 odsto. Ovi rezultati odražavaju ukupne performanse modela na svih 500 zadataka.
+
+"Iako bi se tačne pozicije mogle promeniti ako bismo test ponovili danas, širi zaključak bi verovatno ostao isti: numerička pouzdanost i dalje je slaba tačka kod aktuelnih AI model", rekao je Dejvid Siuda, koautor ORCA testa performansi, za Euronews Next.
+Najveća tačnost u matematici i konverzijama, najmanja u fizici
+
+Performanse se razlikuju po kategorijama. U matematici i konverzijama (147 od 500 zadataka), Gemini prednjači sa 83 odsto, zatim Grok sa 76,9 odsto i DeepSeek sa 74,1 odsto. ChatGPT beleži 66,7 odsto u ovoj kategoriji.
+
+AP/Richard Drew
+ 
+
+Jednostavna prosečna tačnost svih pet modela u ovoj kategoriji je 72,1 odsto, što je najviša među sedam kategorija.
+
+Nasuprot tome, fizika (128 zadataka) je najslabija kategorija, sa prosečnom tačnošću od samo 35,8 odsto. Grok je najbolji sa 43,8 odsto, malo ispred Geminija sa 43 odsto, dok Claude pada na 26,6 odsto.
+
+U svih sedam kategorija, Gemini i Grok zauzimaju prvo mesto u tri kategorije, i dele prvo mesto u jednoj.
+DeepSeek najmanje tačan u biologiji i hemiji
+
+DeepSeek je zabeležio najnižu tačnost u biologiji i hemiji, svega 10,6 odsto. To znači da model nije uspeo da da tačan odgovor u otprilike devet od deset pitanja.
+
+Tanjug/AP Photo/Andy Wong
+ 
+
+Najveće razlike u performansama pojavljuju se u finansijama i ekonomiji. Grok i Gemini dostižu tačnost od 76,7 odsto, dok ostala tri modela – ChatGPT, Claude i DeepSeek – padaju ispod 50 odsto.
+
+"Ako je zadatak kritičan, koristite kalkulator ili proverene izvore, ili barem proverite sa drugim AI modelom", rekao je Siuda.
+Četiri vrste grešaka koje AI modeli prave
+
+Stručnjaci su greške podelili u četiri kategorije. Izazov je u "prevođenju" stvarnog problema u odgovarajuću formulu, navodi izveštaj.
+
+1. Greške u samoj matematici (68 odsto svih grešaka). AI razume pitanje i formulu, ali pogreši u samom proračunu. Ova kategorija uključuje "probleme sa preciznošću i zaokruživanjem" (35 odsto) i "računske greške" (33 odsto).
+
+Na primer, upit je glasio: "Za lutriju gde se izvlači šest kuglica iz skupa od 76, koje su moje šanse da pogodim pet?" Tačan odgovor je "1 od 520.521". ChatGPT-5 je dao "1 od 401.397".
+
+2. Greške u logici (26 odsto svih grešaka). One su ozbiljnije jer pokazuju da AI ne razume osnovnu logiku problema. Uključuju "greške u metodi ili formuli" (14 odsto), poput korišćenja potpuno pogrešnog matematičkog pristupa, i "pogrešne pretpostavke" (12 odsto).
+
+3. Greške u čitanju uputstava (5 odsto svih grešaka). Javljaju se kada AI pogrešno protumači šta se od njega traži. Primeri uključuju "pogrešne parametre" i "nepotpune odgovore".
+
+4. Odustajanje. U nekim slučajevima AI jednostavno odbija ili izbegava da odgovori.
+
+"Njihova slabost je zaokruživanje – ako proračun uključuje više koraka i zahteva zaokruživanje, krajnji rezultat je obično potpuno pogrešan", rekao je Siuda.
+
+Istraživanje je koristilo najnaprednije modele dostupne javnosti besplatno. Svako pitanje imalo je jedan, i samo jedan, tačan odgovor.
+
